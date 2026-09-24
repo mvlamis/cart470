@@ -1,0 +1,8 @@
+Today feels like the real spiritual beginning of this project, and I can't tell if I'm more excited or more scared. Our first conversation with VK answered many of the questions that we raised amongst ourselves, but like every other artistic conversation, also generated a plethora of new, more irritating questions. VK and the team's shared excitement does largely put my mind at ease however. We've booked a session at the visualization lab in the library building for next week, and I'm looking forward to figuring out whatever it is that we're supposed to be doing there. 
+
+Thanks to the generous efforts of Marge during our meeting, we have at least some written documentation of what we talked about to refer back to. As I suspected, VK is expecting a live and functioning product at the end of the 12 weeks, which I personally think is possible regardless of some other's skepticism. The website should be updatable easily by the artists, but I'm hoping that this will be a project that can continue on into the future so that the upcoming content can be incorporated with a little bit more customization instead of having one static framework or template. 
+
+My hope for dividing of the duties is that after we collectively decide on an aesthetic direction, I can work on the code of the main publication section, while others do prototyping, the project brief and information page, media organization, et cetera.
+
+Our task now is to convert VK's existing Miro board into something more dynamic and freer. That should be easy to do in Figma, but if we're thinking about making the "digital scroll" into something that an audience can access, it may be a good idea to create something custom.
+
