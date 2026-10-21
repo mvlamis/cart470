@@ -5,5 +5,6 @@
 [Week 3](journals/week3.md)
 [Week 4](journals/week4.md)
 [Week 5](journals/week5.md)
+[Week 6](journals/week6.md)
 
 ### [Living Learning Contract](living-learning-contract.md)
