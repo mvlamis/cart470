@@ -1,0 +1,11 @@
+Dear Highly Engaged Journal, 
+
+It is currently 10:00 on Wednesday, November 11, and we have a meeting scheduled for 10:30 with Dr. VK Preston. The morning has so far been spent talking to Sabine about where we are, which gave us tasks to work on individually. I'll be working on the backend interface now, and the effect handling that I was working on before has been (thankfully) passed along to Marge. I think I'll be able to reuse a lot of the elements that I learned about while making my final project for CART 211, which was a drag-and-drop-based social media platform that was very material-heavy. They're similar in the way that they handle data, content libraries, media property editing, and probably more that I can't remember on ~30 seconds of sleep.
+
+We've decided to simplify the website even further, making sound a smaller aspect of the experience. What we'll probably do is instead of having multiple audio elements, just play one composition throughout the whole season that doesn't react to user input. Anyhoo, I will update this Highly Engaged Journal Entry after our meeting with VK.
+
+It is now post-VK meeting. It went well, although we were given some conflicting information on their opinions regarding some aesthetic choices and the overlapping images. We were also tasked with supplying them with a link to what we have so far, which shouldn't be difficult (even though next.js is being rude and not letting me export a static site), but is a little bit concerning because that could cause them to think that something temporary is actually intended to be permanent. They liked the direction we are headed in though, so the plan remains basically unchanged. 
+
+My previous fear of code distribution among team members is coming to fruition only partially; since our tech stack is kind of unfriendly to beginners, we're handing off some simpler tasks like the loading screen and landing page to those of limited coding proficiency.
+
+I'm actually pretty happy to be moving away from the front end for now since I'm currently in a headspace where trying to make anything visual is going quite poorly. I tried to start a PowerPoint for another class and after an hour working on its theming it still looked somewhat hideous. Doing something more logic-oriented and traditional is probably going to be a better choice for me right now.
