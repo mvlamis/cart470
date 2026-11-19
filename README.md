@@ -9,5 +9,6 @@
 [Week 7](journals/week7.md)
 [Week 8](journals/week8.md)
 [Week 9](journals/week9.md)
+[Weel 10](journals/week10.md)
 
 ### [Living Learning Contract](living-learning-contract.md)
